@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HashCode2020_1/1.0.0": {
+        "runtime": {
+          "HashCode2020_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashCode2020_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

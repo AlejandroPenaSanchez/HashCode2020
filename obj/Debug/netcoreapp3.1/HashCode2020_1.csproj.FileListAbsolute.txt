@@ -1,0 +1,11 @@
+C:\Users\g3\Desktop\HashCode2020_1\bin\Debug\netcoreapp3.1\HashCode2020_1.exe
+C:\Users\g3\Desktop\HashCode2020_1\bin\Debug\netcoreapp3.1\HashCode2020_1.deps.json
+C:\Users\g3\Desktop\HashCode2020_1\bin\Debug\netcoreapp3.1\HashCode2020_1.runtimeconfig.json
+C:\Users\g3\Desktop\HashCode2020_1\bin\Debug\netcoreapp3.1\HashCode2020_1.runtimeconfig.dev.json
+C:\Users\g3\Desktop\HashCode2020_1\bin\Debug\netcoreapp3.1\HashCode2020_1.dll
+C:\Users\g3\Desktop\HashCode2020_1\bin\Debug\netcoreapp3.1\HashCode2020_1.pdb
+C:\Users\g3\Desktop\HashCode2020_1\obj\Debug\netcoreapp3.1\HashCode2020_1.csprojAssemblyReference.cache
+C:\Users\g3\Desktop\HashCode2020_1\obj\Debug\netcoreapp3.1\HashCode2020_1.AssemblyInfoInputs.cache
+C:\Users\g3\Desktop\HashCode2020_1\obj\Debug\netcoreapp3.1\HashCode2020_1.AssemblyInfo.cs
+C:\Users\g3\Desktop\HashCode2020_1\obj\Debug\netcoreapp3.1\HashCode2020_1.dll
+C:\Users\g3\Desktop\HashCode2020_1\obj\Debug\netcoreapp3.1\HashCode2020_1.pdb
